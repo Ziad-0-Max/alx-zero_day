@@ -1,1 +1,2 @@
-My first readme
+Hello!
+This Ziad from ALX!
